@@ -1,0 +1,7 @@
+{
+  "name": "Murrel Fish Seed Finder",
+  "description": "Find Murrel fish seed dealers and get expert advice using the power of AI and Google Maps. Enter your query to discover local suppliers and learn more about Murrel fish farming.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
